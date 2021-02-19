@@ -1,8 +1,8 @@
-# #Nigeria Stock Exchange Stock Price Analysis
+# #Nigerian Stock Exchange Stock Price Analysis
 NSE Stock Prices from 2016 - 2020: Lost Opportunities Report
 
 ## Brief
-You have recently been  recruited as a data scientist for an  online  subscription based  news media house with strong focus on financial reporting, financial education and investors advisory.  Your chief editor recently came across a newspaper publication by an established  media house BusinessDay that reported on 10 companies that made over 200%  returns in 5 years on the NSE <a href="https://businessday.ng/news/article/these-10-nigerian-firms-delivered-over-200-stock-return-in-5yrs/" target="_blank">BusinessDay Report</a>.  Your editor is curious and would like to know more and make this available to your subscribers.  He has commissioned the  Research  group to with with your Data Science team to work on an NSE Listed Companies 2016 - 2021: Lost Opportunities Report.
+You have recently been  recruited as a data scientist for an  online  subscription based  news media house with strong focus on financial reporting, financial education and investors advisory.  Your chief editor recently came across a newspaper publication by an established  media house BusinessDay that reported on 10 companies that made over 200%  returns in 5 years on the NSE <a href="https://businessday.ng/news/article/these-10-nigerian-firms-delivered-over-200-stock-return-in-5yrs/" target="_blank">BusinessDay Report</a>.   Your editor is curious and would like to know more and make this available to your subscribers.  He has commissioned the  Research  group to with with your Data Science team to work on an NSE Listed Companies 2016 - 2021: Lost Opportunities Report.
 
 > Hello Team,
 > 
