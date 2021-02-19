@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Exclude text files showing data source
+*.txt
+
+
+
 # Distribution / packaging
 .Python
 build/

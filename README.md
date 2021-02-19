@@ -67,8 +67,8 @@ You have recently been  recruited as a data scientist for an  online  subscripti
 - Deployed NSE Share Price API in the Cloud - HerokuApp or Azure or any other Cloud services
 
 ### Resources
-[Web Scraping Using Selenium — Python](https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab)
-[Dash Documentation](https://dash.plotly.com/)
+- [Web Scraping Using Selenium — Python](https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab)  
+- [Dash Documentation](https://dash.plotly.com/)
   
 
 
